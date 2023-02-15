@@ -1,0 +1,2 @@
+this project is just for a revision of CRUD commands (using JDBC and MySql)
+
