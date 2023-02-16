@@ -1,2 +1,10 @@
 this project is just for a revision of CRUD commands (using JDBC and MySql)
 
+there is two program to know simply how to execute query while using JDBC
+first is static where i am adding value statically
+second is dynamic where you can add value from getting value from user dynamically
+also you can create any table dynamically
+
+first and second is just to wash your hand
+
+third is the final project 
